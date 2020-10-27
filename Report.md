@@ -4,8 +4,8 @@
 На тестирование затрачен 1 час.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Kisnik/KeyValidator/issues/1
-* https://github.com/Kisnik/KeyValidator/issues/2
+* [Некоторые валидные ключи распознаются невалидными](https://github.com/Kisnik/KeyValidator/issues/1)
+* [Невалидный ключ 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 распознается валидным](https://github.com/Kisnik/KeyValidator/issues/2)
 
 ## Описание процесса тестирования
 
